@@ -18,7 +18,9 @@
 ![python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 
 **Utilidades**
-![Robot](https://img.shields.io/badge/-Robot-333333?style=flat&logo=Robot)
+![Robot](https://img.shields.io/badge/-RobotFramework-333333?style=flat&logo=RobotFramework)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
+
 
 **DevOps**
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
