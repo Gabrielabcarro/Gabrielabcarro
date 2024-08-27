@@ -34,10 +34,6 @@
 
 <br/>
 
-<a href="https://github.com/Gabrielabcarro" title="Gabis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielabcarro&theme=dracula&show_icons=true" />
-</a>
-
 ### Experiência de trabalho
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
